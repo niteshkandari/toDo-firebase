@@ -32,7 +32,6 @@ const ListCreator: React.FC<any> = (props) => {
   };
   const handleSubmit = async (values: any) => {
    const res:any = Validator.validate(values);
-   console.log(res)
    if(!res.isValid) {
     message.error(res.message);
     return;
