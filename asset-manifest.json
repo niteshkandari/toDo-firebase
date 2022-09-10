@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/toDo-firebase/static/css/main.972ccd61.css",
-    "main.js": "/toDo-firebase/static/js/main.ab312a07.js",
+    "main.js": "/toDo-firebase/static/js/main.d2465107.js",
     "index.html": "/toDo-firebase/index.html",
     "main.972ccd61.css.map": "/toDo-firebase/static/css/main.972ccd61.css.map",
-    "main.ab312a07.js.map": "/toDo-firebase/static/js/main.ab312a07.js.map"
+    "main.d2465107.js.map": "/toDo-firebase/static/js/main.d2465107.js.map"
   },
   "entrypoints": [
     "static/css/main.972ccd61.css",
-    "static/js/main.ab312a07.js"
+    "static/js/main.d2465107.js"
   ]
 }
