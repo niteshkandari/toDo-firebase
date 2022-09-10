@@ -41,11 +41,13 @@ const ListCreator: React.FC<any> = (props) => {
         ...values
       });
       onClose();
+      message.success("Employee data updated successfully")
       return;
     }
     await addDoc(collection(db, 'toDos'), {
       ...values
     });
+    message.success("Employee data added successfully")
     onClose();
   };
 
