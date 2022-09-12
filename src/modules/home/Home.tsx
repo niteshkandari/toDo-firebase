@@ -15,7 +15,7 @@ const Home = () => {
     <Layout style={{ minHeight: '100vh' }}>
       <Header style={{color: 'white', display: 'flex', alignItems: 'center',justifyContent: 'end'}}>
       <span className="mr-20 text-xl underline underline-offset-8">
-        Todo
+       employee management system using
         <strong className="text-cyan-500">🔥Base</strong>
       </span>  
       <Tooltip placement="topLeft" title={"create user data..."}>
@@ -39,7 +39,7 @@ const Home = () => {
           textAlign: 'center',
           height: '3vh',
         }}>
-        @toDO 🔥Base
+        @ems 🔥Base
       </Footer>
     </Layout>
   );
